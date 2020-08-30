@@ -1,0 +1,41 @@
+html,body{
+    min-height: 100%;
+    background-color: #C850C0;
+    background-image: linear-gradient(0deg, #C850C0 0%, #FFCC70 99%);
+}
+
+
+.x{
+    margin-top: 50px;
+}
+
+
+.navbar{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+
+.cd{
+    float: left;
+}
+
+a,a:hover{
+    text-decoration: none;
+    color: #24243e;
+}
+
+.gen{
+    background: none;
+    flex-shrink: 0;
+    overflow: hidden;
+    border: calc(8px + 0.2vw) solid transparent;
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    background-size: cover;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Rowdies', cursive;
+}
+
+

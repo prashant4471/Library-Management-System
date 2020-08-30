@@ -1,0 +1,19 @@
+html{
+    min-height: 100%;
+    background-color: #FFE53B;
+background-image: linear-gradient(180deg, #FFE53B 0%, #75a2c7 100%);
+}
+
+body{
+    height: 100%;
+    background: none;
+}
+
+.navbar{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+
+a,a:hover{
+    text-decoration: none;
+    color: #24243e;
+}
